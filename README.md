@@ -1,1 +1,1 @@
-# Statistics-Final-Project
+Forest Fires statistical analysis
